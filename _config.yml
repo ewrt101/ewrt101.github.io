@@ -23,8 +23,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'Daniel (ewrt)'
-description: 'Daniel (ewrt)'
+title: 'Dan (ewrt)'
+description: 'Dan (ewrt)'
 permalink: pretty
 logo: "/assets/pictures/Profile_New.png"
 
