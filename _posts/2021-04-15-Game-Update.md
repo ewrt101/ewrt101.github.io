@@ -1,7 +1,7 @@
 ---
 title: Start of a working game
 categories:
-- General
+- Game
 feature_image: "/assets/pictures/Blog-2021-04-15.png"
 ---
 
