@@ -4,7 +4,7 @@ title: Projects
 
 #### bullet doge VR game
 A VR bullet hell game made in unity, very early on and more info will be added later on.
-Plan to release on Steam to start and would like to release on quest and psvr if i can get my hands on the systems.
+Plan to release on Steam to start and would like to release on quest and psvr if i can get my hands on the systems. Check out my Blog page to see my progress
 
 
 #### VRChat backup pull
