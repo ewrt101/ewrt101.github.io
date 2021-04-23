@@ -11,6 +11,6 @@ I have come across a the cause frame times to dip, i think its the openVR runtim
 
 All in all progress has been made.
 
-On a side note i have started working on textures as showen in the picuture above. Im going to need to pick up a quixel PERSONAL licence but that can wait will i can spend the money.
+On a side note i have started working on textures as showen in the picuture above. Im going to need to pick up a quixel PERSONAL licence but that can wait till i can spend the money.
 
 If you want to help test the game, hit me up on discord.
