@@ -6,6 +6,8 @@ Started Uni in 2018 and finished the last of my uni work at the very end of 2020
 
 Went to uni for software engineering but swap to computer science after the first year. Covered a wide range of topics within computer science, everything from networking to basic OS and even a bit of game dev.
 
+All of my projects on my project page use C# as the main language, C# is my goto. I have used Node.js quite a bit at uni and during my internship. Just check out my linkedin if you want to see everything im comfortable working with.
+
 Big into making Vr stuff and game in genral. Started with Uinty in 2013 in my first year at highschool but never made anything i can show off. My current project (the bull hell one) is supposted to fix that problem, started work on it in late march so still very new but check out my project page to learn more.
 
 
