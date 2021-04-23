@@ -7,7 +7,7 @@ feature_image: "/assets/pictures/Blog-2021-04-23.png"
 
 Got the first verson up on my steam App Id, so i can now have friends test the game.
 
-I have come across a the cause frame times to dip, i think its the openVR runtime and im hoping the next verson of unity will fix it. If a new verson of unity dosent help i will go back to debugging.
+I have come across a problem that causes frame times to dip, i think its the openVR runtime and im hoping the next verson of unity will fix it. If a new verson of unity dosent help i will go back to debugging.
 
 All in all progress has been made.
 
