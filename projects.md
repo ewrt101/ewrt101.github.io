@@ -6,6 +6,9 @@ title: Projects
 A VR bullet hell game made in unity, very early on and more info will be added later on.
 Plan to release on Steam to start and would like to release on quest and psvr if i can get my hands on the systems. Check out my Blog page to see my progress
 
+#### Vulkan Game engine  
+A simple Vulkan based Game engine. im following this tutoral by [Brendan Galea](https://www.youtube.com/channel/UC9pXmjxsQHeFH9vgCeRsHcw) on youtube.
+Its only something i work on every now and then you can see my current progress on my github. Currently only renders a pretty tringle 
 
 #### VRChat backup pull
 A old command line tool to pull avatar backups from the VRC servers when future proofing was left on.
