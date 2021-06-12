@@ -4,7 +4,8 @@ title: Projects
 
 #### bullet doge VR game
 A VR bullet hell game made in unity, very early on and more info will be added later on.
-Plan to release on Steam to start and would like to release on quest and psvr if i can get my hands on the systems. Check out my Blog page to see my progress
+Plan to release on Steam to start and would like to release on quest and psvr if i can get my hands on the systems. Check out my Blog page to see my progress.
+There is also a steam page now https://store.steampowered.com/app/904140/Slicer/
 
 #### Vulkan Game engine  
 A simple Vulkan based Game engine. im following this tutoral by [Brendan Galea](https://www.youtube.com/channel/UC9pXmjxsQHeFH9vgCeRsHcw) on youtube.
