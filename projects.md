@@ -2,6 +2,18 @@
 title: Projects
 ---
 
+last updated 26/07/2021
+
+#### React and Node based server monitoring
+Just something small i am working on to teach myself some react.
+Check it out here [Front End](https://github.com/ewrt101/React.js-server-status-page)
+And here [Back End](https://github.com/ewrt101/Node.js-server-status-backend)
+
+
+#### RadNwet
+Radnewt is what my bullet doge VR game and other games will be done under
+Check out the website here [Radnewt](https://radnewt.com)
+
 #### bullet doge VR game
 A VR bullet hell game made in unity, very early on and more info will be added later on.
 Plan to release on Steam to start and would like to release on quest and psvr if i can get my hands on the systems. Check out my Blog page to see my progress.
